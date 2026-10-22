@@ -1,0 +1,13 @@
+Atue como um especialista em n8n e me ajude com a seguinte tarefa:
+
+Quero criar uma automação no n8n para produção de relatórios mensais de coordenação de um projeto de futebol.
+
+Responsável: coordenadores do projeto
+
+Resultado esperado: baseado no modelo padrão da empresa (clube de futebol) e no diário de bordo feito pelos coordenadores a cada visita aos núcleos de futebol, gerar um relatório mensal consolidando todas as ideias dentro do padrão desejado.
+
+Etapas: 
+1 - ler o modelo padrão (me ajude a escolher o melhor formato, por exemplo, word, excel, pdf, etc)
+2 - ler o diário de bordo do coordenador de cada núcleo visitado, sendo seis núcleos, cada um recebendo duas visitas mensais (me ajude a escolher o melhor formato para o diário de bordo, por exemplo, bloco de notas no drive, formulário no google forms, etc)
+3 - entender e formatar as ideias dos coordenadores descritas no diário de bordo de acordo com o modelo padrão
+4 - entregar o relatório final em formato word para que o coordenador possa fazer alguma alteração se necessário, exatamente igual ao modelo padrão 
